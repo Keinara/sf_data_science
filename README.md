@@ -7,11 +7,11 @@
 
 ## Проект 1 Угадай число за минимальное количество попыток
 ### Оглавление
-1. [Описание проекта](#title1)
-2. [Какой кейс решаем?](#title1)
-3. [Краткая информация о данных](#title1)
-4. [Этапы работы над проектом](#title1)
-5. [Результат](#title1)
+1. [Описание проекта](https://github.com/Keinara/sf_data_science/blob/main/README.md#Описание-проекта)
+2. [Какой кейс решаем?](https://github.com/Keinara/sf_data_science/blob/main/README.md#Какой-кейс-решаем)
+3. [Краткая информация о данных](https://github.com/Keinara/sf_data_science/blob/main/README.md#Краткая-информация-о-данных)
+4. [Этапы работы над проектом](https://github.com/Keinara/sf_data_science/blob/main/README.md#Этапы-работы-над-проектом)
+5. [Результат](https://github.com/Keinara/sf_data_science/blob/main/README.md#Результат)
 
 #### Описание проекта
 Угадать загаданное компьютером число не более чем за 20-ть попыток
