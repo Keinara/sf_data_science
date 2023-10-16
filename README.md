@@ -28,7 +28,7 @@
  - Разместить код на  GitHub
 
  #### Результат
- [Код размещен  по ссылке] (https://github.com/Keinara/sf_data_science/blob/main/number_%20guess.py)
+ [Код размещен  по ссылке](https://github.com/Keinara/sf_data_science/blob/main/number_%20guess.py)
  
 
 
