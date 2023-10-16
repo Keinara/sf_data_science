@@ -1,9 +1,9 @@
 # My data science projects
 
 ## Projects
-1. [Проект 0. Угадай число] (https://github.com/Keinara/sf_data_science/blob/main/game.py)
-2. [Проект 0.1. Рандомно угадай число] (https://github.com/Keinara/sf_data_science/blob/main/game_v2.py)
-2. [Проект 1. Угадай число не более чем за 20 попыток] (https://github.com/Keinara/sf_data_science/blob/main/number_%20guess.py)
+1. [Проект 0. Угадай число](https://github.com/Keinara/sf_data_science/blob/main/game.py)
+2. [Проект 0.1. Рандомно угадай число](https://github.com/Keinara/sf_data_science/blob/main/game_v2.py)
+2. [Проект 1. Угадай число не более чем за 20 попыток](https://github.com/Keinara/sf_data_science/blob/main/number_%20guess.py)
 
 ## Проект 1 Угадай число за минимальное количество попыток
 ### Оглавление
